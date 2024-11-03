@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "email": "mentor@example.com",
+    "password": "password123",
+    "name": "John Mentor",
+    "role": "MENTOR",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&auto=format&fit=crop",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "email": "mentee@example.com",
+    "password": "password123",
+    "name": "Sarah Mentee",
+    "role": "MENTEE",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&auto=format&fit=crop",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "email": "admin@example.com",
+    "password": "password123",
+    "name": "Alex Admin",
+    "role": "ADMIN",
+    "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?w=400&h=400&auto=format&fit=crop",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]
